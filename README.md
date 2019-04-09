@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Pre-requisites
+
+Install [MongoDB](https://docs.mongodb.com/manual/installation/) or use [Docker Compose](https://docs.docker.com/compose/) to run the mongo server
+
 ## Available Scripts
 
 In the project directory, you can run:
